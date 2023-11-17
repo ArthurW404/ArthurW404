@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Arthur, tinkerer of random software. 
+
 <!--
 **ArthurW404/ArthurW404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
